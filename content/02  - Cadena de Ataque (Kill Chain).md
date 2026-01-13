@@ -2,6 +2,20 @@
 
 La campaña DeTankZone implementó una cadena de ataque sofisticada que abarcó desde el reconocimiento inicial hasta la instalación de malware persistente. Este análisis descompone la operación en las siete fases del modelo Cyber Kill Chain de Lockheed Martin.
 
+```mermaid
+sequenceDiagram
+    participant V as Víctima
+    participant W as Web Maliciosa
+    participant C as C2 Server
+    
+    V->>W: Visita DeTankZone.com
+    W->>V: Envía Exploit V8 (JS)
+    Note over V: Browser Crash / Memory Corruption
+    V->>C: Connect Back (Shellcode)
+    C->>V: Envía Payload Final (Manuscrypt)`
+```
+
+
 ## 2.1. Fase de Reconocimiento
 
 Lazarus Group realizó un reconocimiento dirigido del sector criptomonedas para identificar objetivos de alto valor y planificar vectores de ataque efectivos.

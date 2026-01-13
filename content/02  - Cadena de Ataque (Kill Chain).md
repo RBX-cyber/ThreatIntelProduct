@@ -68,7 +68,7 @@ La entrega combinó múltiples vectores de ataque para maximizar el alcance y pr
 
 ## 2.4. Fase de Explotación
 
-La explotación se ejecutó automáticamente mediante la cadena de exploits descrita en la sección de [[Análisis de Vulnerabilidades Explotadas]], sin requerir interacción del usuario.
+La explotación se ejecutó automáticamente mediante la cadena de exploits descrita en la sección de [[03 - Análisis de Vulnerabilidades Explotadas]], sin requerir interacción del usuario.
 
 **Secuencia de explotación automatizada:**
 

@@ -1,6 +1,4 @@
----
-title: Threat Intel-DeTankZone
----
+
 
 # Informe de Inteligencia: Campaña DeTankZone
 

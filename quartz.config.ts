@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0b1221",       // Fondo azul muy oscuro (casi negro)
+          lightgray: "#1e2a45",   // Bordes de cajas
+          gray: "#64748b",        // Texto secundario
+          darkgray: "#94a3b8",    // Iconos
+          dark: "#e2e8f0",        // Texto principal (blanco roto)
+          secondary: "#38bdf8",   // Enlaces y Títulos (Cian eléctrico)
+          tertiary: "#ef4444",    // Hover y Acentos (Rojo alerta)
+          highlight: "rgba(56, 189, 248, 0.15)", // Fondo resaltado
+          textHighlight: "#ef444488",
         },
       },
     },

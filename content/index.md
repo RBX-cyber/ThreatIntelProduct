@@ -1,4 +1,7 @@
-
+---
+title: Campaña DeTankZone
+date: 2026-01-14
+---
 
 # Informe de Inteligencia: Campaña DeTankZone
 

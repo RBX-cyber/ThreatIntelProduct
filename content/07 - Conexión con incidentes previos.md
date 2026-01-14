@@ -18,7 +18,7 @@ DeTankZone no es un evento aislado, sino una iteración más dentro de una estra
 La metodología de captación de víctimas en DeTankZone es una variante directa de la "Operación DreamJob".
 * **Modus Operandi:** Los atacantes contactan a empleados de sectores estratégicos (Defensa, Aeroespacial, Cripto) a través de LinkedIn o X, ofreciendo falsas oportunidades laborales o colaboraciones.
 * **Vínculo Técnico:** En campañas de 2022, Lazarus utilizó esta misma técnica para desplegar *Zero-Days* de Chrome contra víctimas que visitaban enlaces maliciosos enviados durante la "entrevista". La infraestructura de ingeniería social es compartida.
-* **Informe Técnico:** [Google TAG - Countering hackers recruiting unwary job seekers](https://blog.google/threat-analysis-group/countering-hackers-recruiting-unwary-job-seekers/)
+* **Informe Técnico:** [Operation Dream Job](https://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf)
 
 ### B. Campaña TraderTraitor (Software Cripto Troyanizado)
 Esta es la campaña "gemela" de DeTankZone en términos de ejecución técnica.

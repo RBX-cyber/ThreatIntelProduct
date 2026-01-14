@@ -2,7 +2,7 @@
 
 # Informe de Inteligencia: Campaña DeTankZone
 
-Este repositorio documenta el análisis táctico y técnico de la campaña [DeTankZone](https://nquiringminds.com/cybernews/lazarus-group-exploits-chrome-zeroday-vulnerability-in-detankzone-campaign/), una operación avanzada de ciberespionaje y robo financiero dirigida contra el sector de las criptomonedas. La campaña ha sido atribuida con alta confianza al [Lazarus Group](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-exploits-chrome-zero-day-campaign) (APT de Corea del Norte).
+Este repositorio documenta el análisis táctico y técnico de la campaña [DeTankZone](https://nquiringminds.com/cybernews/lazarus-group-exploits-chrome-zeroday-vulnerability-in-detankzone-campaign/), una operación avanzada de ciberespionaje y robo financiero dirigida contra el sector de las criptomonedas. La campaña ha sido atribuida a [Lazarus Group](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-exploits-chrome-zero-day-campaign) (APT de Corea del Norte).
 
 ## Resumen Ejecutivo
 
